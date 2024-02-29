@@ -14,5 +14,6 @@ This repository contains questions on Android and topics related to Android deve
   * [`Difference between Doze Mode and StandBy Mode`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/Difference-between-Doze-Mode-and-StandBy-Mode)
 * `Compose`
   * [`Jetpack compose is it runtime library or compile time library?`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/Jetpack-compose-is-it-runtime-library-or-compile-time-library%3F)
+  * [`LazyColumn, how to avoid glitches of the UI`]()
 * `Communicate between apps`
   * [`Difference between AIDL and Content Providers`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/Difference-between-AIDL-and-Content-Providers)    
