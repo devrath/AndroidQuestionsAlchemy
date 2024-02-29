@@ -11,6 +11,7 @@ This repository contains questions on Android and topics related to Android deve
 * `Battery`
   * [`What is doze mode in android`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/What-is-doze-mode-in-android)
   * [`What is stand-by mode in adnroid`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/What-is-wake-lock-in-android)
+  * [`Difference between Doze Mode and StandBy Mode`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/Difference-between-Doze-Mode-and-StandBy-Mode)
 * `Compose`
   * [`Jetpack compose is it runtime library or compile time library?`](https://github.com/devrath/AndroidQuestionsAlchemy/wiki/Jetpack-compose-is-it-runtime-library-or-compile-time-library%3F)
 * `Communicate between apps`
